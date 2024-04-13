@@ -1,0 +1,9 @@
+#Enable all the actuator endpoints by adding the below configuration
+management:
+    endpoints:
+        web:
+            exposure:
+                include: '*'
+#                include: [ "prometheus" ]
+#server:
+#  port: 8083

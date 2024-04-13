@@ -1,11 +1,6 @@
-# springboot-actuator-prometheus-example
-
+springboot-actuator-prometheus-example
 
 Monitoring Made Simple: Empowering Spring Boot Applications with Prometheus and Grafana
-
-$ docker-compose up
-
-Now, Prometheus is accessible via http://localhost:9090 and Grafana is accessible via http://localhost:3000.
 
 http://localhost:8080/actuator
 http://localhost:8080/actuator/prometheus
@@ -17,4 +12,3 @@ Sites:
 https://medium.com/simform-engineering/revolutionize-monitoring-empowering-spring-boot-applications-with-prometheus-and-grafana-e99c5c7248cf#:~:text=Prometheus%20enables%20you%20to%20collect,can%20be%20collected%20by%20Prometheus.
 https://www.youtube.com/watch?v=pVdDWQQeqME
 https://www.youtube.com/watch?v=2wr9njNdywk
-
